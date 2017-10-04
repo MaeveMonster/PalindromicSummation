@@ -1,1 +1,1 @@
-This was my summer project in 2015. It is a Java console application that requests a number, x, from the user and then displays the first x numbers that are palindromic in both base 10 and binary. Thes it displays the sum of the previously displayed numbers.
+This was my summer project in 2015. It is a Java console application that requests a number, x, from the user and then displays the first x numbers that are palindromic in both base 10 and binary. Then it displays the sum of the previously displayed numbers.
